@@ -121,7 +121,7 @@ extensionmask = []
 [Languages.en]
 weight = 1
 copyright = "(c) 2016 Copyright my blog"
-title = "GoWI.FI" # Site title
+title = "GoWi.Fi" # Site title
 
 [[Languages.en.menu.main]]
 name = "Blog"

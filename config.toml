@@ -68,14 +68,14 @@ optin = true #opt-in: true/false
 
 [params]
 # You can use markdown here.
-BrandImage = "https://res.cloudinary.com/dtnahfj7l/v1491010365/khpzpjneoebqyce56psx" #top header brand image.
+BrandImage = "" #top header brand image.
 brand = "My awsome blog" # brand image alt text.
 topline = "few words about your site"
 footline = "code with <i class='fa fa-heart'></i>"
 
 # Text for the top menu link, which goes to the root URL for the site.
 # Default (if omitted) is "Home".
-home = "home"
+home = "Home"
 
 mailmunchid = "" # Mailmunch site id
 sumomeid = "" # Sumome id
@@ -121,7 +121,7 @@ extensionmask = []
 [Languages.en]
 weight = 1
 copyright = "(c) 2016 Copyright my blog"
-title = "My blog" # Site title
+title = "GoWI.FI" # Site title
 
 [[Languages.en.menu.main]]
 name = "Blog"

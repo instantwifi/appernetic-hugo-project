@@ -1,12 +1,11 @@
 +++
-title = "index"
-tags = ["one","two"]
-topics = ["topic 1"]
-keywords = ["key","words"]
+title = "GoWi.Fi is the easiest way to access a WI-FI hot spot"
+tags = ["GoWi.Fi","WI-FI","Hot Spot", "Configure WI-FI", "Configure Internet"]
+keywords = ["GoWi.Fi","WI-FI","Hot Spot", "Configure WI-FI", "Configure Internet"]
 type = "page"
 date = "2017-04-01T16:31:25Z"
-description = "description"
-author = "author"
+description = "GoWi.Fi is the easiest way to access a WI-FI hot spot"
+author = "Ulfsv"
 draft = true
 
 +++

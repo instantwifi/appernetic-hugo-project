@@ -11,7 +11,7 @@ draft = true
 
 +++
 # GoWi.Fi is the easiest way to access a WI-FI hot spot
-With GoWi.Fi your mobile device will instantly get the WI-FI settings configured and you can use long and secure passwords without any trouble.
+With GoWi.Fi your users mobile devices will instantly get the WI-FI settings configured and you can use long and secure passwords without any trouble.
 
 The user doesn't have to enter any SSID and password which gives the following advantages:
 
@@ -19,7 +19,7 @@ The user doesn't have to enter any SSID and password which gives the following a
  - Users can't enter the wrong password
  - You can use very long passwords which are safer
  - You don't have to use WPS which shouldn't be used anyway,
- - The board can be designed as you want
+ - The sign can be designed as you want
  
 ## Specification
 

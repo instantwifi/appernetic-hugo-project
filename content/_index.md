@@ -10,8 +10,8 @@ author = "author"
 draft = true
 
 +++
-# Go Wi.Fi is the easiest way to access a WI-FI hot spot
-With Go Wi.Fi your mobile device will instantly get the WI-FI settings configured and you can use long and secure passwords without any trouble.
+# GoWi.Fi is the easiest way to access a WI-FI hot spot
+With GoWi.Fi your mobile device will instantly get the WI-FI settings configured and you can use long and secure passwords without any trouble.
 
 The user doesn't have to enter any SSID and password which gives the following advantages:
 

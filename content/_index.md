@@ -28,14 +28,13 @@ The user doesn't have to enter any SSID and password which gives the following a
 - Second generation NFC chip: compatible with most devices.
 - QR Code for non-compatible devices such as iPhone.
 
-<form id="contact-form" action="//formspree.io/ulf.e.sv@gmail.com" method="post">
-	<input type="text" name="Name" placeholder="Name" required>
-	<input type="email" name="Email" placeholder="Email" required>
-	<textarea name="Message" cols="30" rows="6" placeholder="Message" required></textarea>
-	<!-- CONFIG -->
-	<input class="is-hidden" type="text" name="_gotcha">
-	<input type="hidden" name="_subject" value="Subject">
-	<input type="hidden" name="_cc" value="goran@molnfront.com">
-	<!-- /CONFIG -->
-	<input class="submit" type="submit" value="Send">
-</form>
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="Bacon"
+    data-item-price="3.00"
+    data-item-weight="20"
+    data-item-url="/"
+    data-item-description="Some fresh bacon">
+        Buy bacon
+</button>

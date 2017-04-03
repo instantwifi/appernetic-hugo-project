@@ -35,6 +35,7 @@ The user doesn't have to enter any SSID and password which gives the following a
     data-item-price="35.00"
     data-item-weight="100"
     data-item-url="/"
+    data-item-stackable="false"
     data-item-description="Custom designed Instant GoWi.Fi Sign with NFC and QR-Code">
         Buy GoWi.Fi Sign
 </button>

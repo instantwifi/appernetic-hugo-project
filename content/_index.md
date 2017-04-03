@@ -9,8 +9,7 @@ author = "Ulfsv"
 draft = true
 
 +++
-<div class="jumbotron" style="background-image: url('https://res.cloudinary.com/dtnahfj7l/v1491252940/y8qv8o48vhvm2hqwhepf') ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;height:90vh;z-index:20; opacity: 0.6;
-    filter: alpha(opacity=60); background-color: #ffffff;">
+<div class="jumbotron" style="background-image: url('https://res.cloudinary.com/dtnahfj7l/v1491252940/y8qv8o48vhvm2hqwhepf') ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;height:90vh;z-index:20; rgba(76, 175, 80, 0.3)">
     <div class="container" style="width: 600px; float: left; ">
        <span style="color:#000"> <h1>GoWi.Fi is the easiest way to access a WI-FI hot spot</h1></span>
     <p class="lead" style="color:#000">

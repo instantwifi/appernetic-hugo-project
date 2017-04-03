@@ -9,7 +9,7 @@ author = "Ulfsv"
 draft = true
 
 +++
-<div class="jumbotron" style="background-image: url('/images/nfc/Heros/NFC-BusinessCardPlus-LandingPage.jpg');">
+<div class="jumbotron" style="background-image: url('https://res.cloudinary.com/dtnahfj7l/v1491252940/y8qv8o48vhvm2hqwhepf');">
     <div class="container text-center content-center">
         <h1>GoWi.Fi is the easiest way to access a WI-FI hot spot</h1>
     <p class="lead" style="color: #2f2f2f;">

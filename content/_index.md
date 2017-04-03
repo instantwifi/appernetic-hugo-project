@@ -9,7 +9,7 @@ author = "Ulfsv"
 draft = true
 
 +++
-<div class="jumbotron ng-scope">
+<div class="jumbotron" style="background-image: url('/images/nfc/Heros/NFC-BusinessCardPlus-LandingPage.jpg');">
     <div class="container text-center content-center">
         <h1>GoWi.Fi is the easiest way to access a WI-FI hot spot</h1>
     <p class="lead" style="color: #2f2f2f;">

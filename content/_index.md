@@ -29,7 +29,7 @@ The user doesn't have to enter any SSID and password which gives the following a
 - QR Code for non-compatible devices such as iPhone.
 
 <button
-class="btn btn-success"
+class="btn btn-success btn-lg"
     data-item-id="2"
     data-item-name="GoWi.Fi Sign"
     data-item-price="35.00"

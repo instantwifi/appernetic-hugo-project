@@ -10,10 +10,10 @@ draft = true
 
 +++
 <div class="jumbotron" style="background-image: url('https://res.cloudinary.com/dtnahfj7l/v1491252940/y8qv8o48vhvm2hqwhepf') ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;height:90vh;z-index:20;">
-    <div class="container">
-        <h1>GoWi.Fi is the easiest way to access a <br>WI-FI hot spot</h1>
+    <div class="container" style="width: 600px">
+        <h1>GoWi.Fi is the easiest way to access a WI-FI hot spot</h1>
     <p class="lead">
-      With GoWi.Fi, your users mobile devices will instantly get the WI-FI settings<br> configured and you can use long and secure passwords without any trouble.</p>
+      With GoWi.Fi, your users mobile devices will instantly get the WI-FI settings configured and you can use long and secure passwords without any trouble.</p>
 
     <p><button
 class="btn btn-success btn-lg"

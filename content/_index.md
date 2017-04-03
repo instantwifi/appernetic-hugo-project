@@ -36,6 +36,16 @@ The user doesn't have to enter any SSID and password which gives the following a
     data-item-weight="100"
     data-item-url="/"
     data-item-stackable="false"
+data-item-custom1-name="SSID"
+    data-item-custom1-required="true"
+data-item-custom2-name="Password"
+    data-item-custom2-required="true"
+data-item-custom3-name="Color"
+data-item-custom3-options="White|Blue|Black|Red|Yellow|UV-changing"
+    data-item-custom3-value="White"
+data-item-custom4-name="Material"
+data-item-custom4-options="PLA Plastic|Bio degradeble"
+    data-item-custom4-value="PLA Plastic"
     data-item-description="Custom designed Instant GoWi.Fi Sign with NFC and QR-Code">
         Buy GoWi.Fi Sign
 </button>

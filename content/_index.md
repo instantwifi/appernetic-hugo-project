@@ -33,7 +33,7 @@ The user doesn't have to enter any SSID and password which gives the following a
     data-item-id="2"
     data-item-name="GoWi.Fi Sign"
     data-item-price="35.00"
-    data-item-weight="20"
+    data-item-weight="100"
     data-item-url="/"
     data-item-description="Custom designed Instant GoWi.Fi Sign with NFC and QR-Code">
         Buy GoWi.Fi Sign

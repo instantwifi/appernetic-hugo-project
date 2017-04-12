@@ -13,7 +13,7 @@ draft = true
     <div class="container" style="width: 600px; float: left; ">
        <span style="color:#000"> <h1>GoWi.Fi is the easiest way to access Wi-Fi</h1></span>
     <p class="lead" style="color:#000">
-      With GoWi.Fi, your users mobile devices will instantly get the WI-FI settings configured and you can use long and secure passwords without any trouble.</p>
+      With GoWi.Fi, your users mobile devices will instantly get the Wi-Fi settings configured and you can use long and secure passwords without any trouble.</p>
 
     <p><button
 class="btn btn-success btn-lg"

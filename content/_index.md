@@ -33,7 +33,7 @@ data-item-custom4-name="Material"
 data-item-custom4-options="PLA Plastic|Bio degradable"
     data-item-custom4-value="PLA Plastic"
     data-item-description="Custom designed Instant GoWi.Fi Sign with NFC and QR-Code">
-        Buy GoWi.Fi
+        Buy
 </button>
     </p>
     </div>

@@ -14,7 +14,6 @@ draft = true
        <span style="color:#000"> <h1>GoWi.Fi the easiest way to access Wi-Fi</h1></span>
     <p class="lead" style="color:#000">
       With GoWi.Fi, your users mobile devices will instantly get the Wi-Fi settings configured and you can use long and secure passwords without any trouble.</p>
-![enter image description here][1]
     <p><button
 class="btn btn-success btn-lg"
     data-item-id="gowifisign"
@@ -39,6 +38,3 @@ data-item-custom4-options="PLA Plastic|Bio degradable"
     </p>
     </div>
 </div>
-
-
-  [1]: https://res.cloudinary.com/dtnahfj7l/v1492013722/k30e0blmbl6k6ssbxg50

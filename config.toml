@@ -159,8 +159,8 @@ copyright = "(c) 2017 Alla rättigheter"
 name = "Om oss"
 pre = ""
 weight = 2
-identifier = "om"
-url = "/sv/om/"
+identifier = "om-oss"
+url = "/sv/om-oss/"
 
 # [[Languages.sv.menu.footer]] # add  links to the bottom right corner.
 # name = "Ansvarsfriskrivning"

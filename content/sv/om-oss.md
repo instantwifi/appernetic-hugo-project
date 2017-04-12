@@ -12,4 +12,4 @@ description = "description"
 +++
 # Om oss
 
-Ring och beställ direkt an Ulf Sve
+Ring och beställ direkt av Ulf Sve

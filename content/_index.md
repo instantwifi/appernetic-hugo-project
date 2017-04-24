@@ -12,7 +12,7 @@ draft = true
 <div class="jumbotron-fluid" style="background-image: url('https://res.cloudinary.com/dtnahfj7l/v1493069152/i4ozdwtvl5wixtlzpx9i') ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;height:100vh;z-index:20; rgba(76, 175, 80, 0.3); overflow: hidden;background-position:0% 0% !important;">
 
 <div class="container" style="padding-top: 100px;">
-    <div class="container" style="width: 600px;  float: left; ">
+    <div class="container" style="width: 600px;  float: left; rgba(76, 175, 80, 0.3); ">
        <span style="color:#000"> <h1>The easiest way to access Wi-Fi</h1></span>
     <p class="lead" style="color:#000">
       With GoWi.Fi, your user's mobile devices will instantly get the Wi-Fi settings configured and you can use long and secure passwords without any trouble.</p>

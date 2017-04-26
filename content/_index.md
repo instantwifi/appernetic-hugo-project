@@ -6,7 +6,7 @@ type = "page"
 date = "2017-04-01T16:31:25Z"
 description = "GoWi.Fi is the easiest way to access a WI-FI hot spot"
 author = "Ulfsv"
-draft = true
+draft = false
 
 +++
 <div class="jumbotron-fluid" style="background-image: url('https://res.cloudinary.com/dtnahfj7l/v1493071296/ek9sz8rzpa3wobbbpx4n') ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;height:100vh;z-index:20; rgba(76, 175, 80, 0.3); overflow: hidden;background-position:0% 0% !important;">

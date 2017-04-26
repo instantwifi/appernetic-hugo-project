@@ -10,8 +10,8 @@ description = "description"
 author = "author"
 
 +++
-###  GoWI.FI is the easiest way to instantly get WI-FI settings configured in your user's mobile devices.
-
+# GoWi.Fi
+###  GoWI.FI is the easiest way to instantly get WI-FI settings configured in your user's mobile devices.
 The user doesn't have to enter any SSID and password which gives the following advantages:
  - Your staff don't have to hand out passwords to visitors which saves time,
  - Users can't enter the wrong password

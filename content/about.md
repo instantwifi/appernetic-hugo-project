@@ -1,11 +1,11 @@
 +++
-type = "post"
-keywords = ["key","words"]
+type = "page"
+keywords = ["NFC","WI-FI"]
 draft = false
 date = "2017-04-26T21:39:04Z"
 title = "about"
-tags = ["one","two"]
-topics = ["topic 1"]
+tags = ["NFC","WI-FI"]
+topics = ["WI-FI"]
 description = "description"
 author = "author"
 

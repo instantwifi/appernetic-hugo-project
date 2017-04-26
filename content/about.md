@@ -1,7 +1,7 @@
 +++
 type = "post"
 keywords = ["key","words"]
-draft = true
+draft = false
 date = "2017-04-26T21:39:04Z"
 title = "about"
 tags = ["one","two"]

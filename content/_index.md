@@ -9,7 +9,7 @@ author = "Ulfsv"
 draft = false
 
 +++
-<div class="jumbotron-fluid" style="background-image: url('https://res.cloudinary.com/dtnahfj7l/v1493071296/ek9sz8rzpa3wobbbpx4n') ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;height:110vh;z-index:20; rgba(76, 175, 80, 0.3); overflow: hidden;background-position:0% 0% !important;">
+<div class="jumbotron-fluid" style="background-image: url('https://res.cloudinary.com/dtnahfj7l/v1493071296/ek9sz8rzpa3wobbbpx4n') ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;height:105vh;z-index:20; rgba(76, 175, 80, 0.3); overflow: hidden;background-position:0% 0% !important;">
 
 <div class="container" style="padding-top: 100px;">
     <div class="container" style="max-width: 600px;  float: left; text-shadow: 2px 1px #000;">

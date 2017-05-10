@@ -42,7 +42,7 @@ data-item-custom4-options="PLA Plastic|Bio degradable"
       </div>
     </div>
 </div>
-
+<div class="container">
 <div class="row">
 <div class="col-sm-12">
 <header class="container hat">
@@ -67,5 +67,6 @@ data-item-custom4-options="PLA Plastic|Bio degradable"
 <li>NFC chip: compatible with most devices.</li>
 <li>QR Code for non-compatible devices such as iPhone.</li>
 </ul>
+</div>
 </div>
 </div>

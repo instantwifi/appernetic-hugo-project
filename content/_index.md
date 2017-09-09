@@ -9,39 +9,48 @@ author = "Ulfsv"
 draft = false
 
 +++
-<div class="jumbotron-fluid" style="background-image: url('https://res.cloudinary.com/dtnahfj7l/v1493071296/ek9sz8rzpa3wobbbpx4n') ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;height:100vh;z-index:20; rgba(76, 175, 80, 0.3); overflow: hidden;background-position:0% 0% !important;">
+<header>
+  <section class="video v-center">
+  <div id="bgVideo" class="background"><video id="video_background" preload="auto" autoplay="autoplay" loop="loop" poster="/img/earth.jpg"><source src="../earth.mp4" type="video/mp4">bgvideo</video></div>
+<div class="hero-unit">
+    <div class="container text-left">
+<h1 class="hero-title-lg dont-break-out">The easiest way to access Wi-Fi</h1>
 
-<div class="container" style="padding-top: 100px;">
-    <div class="container" style="max-width: 600px;  float: left; text-shadow: 2px 1px #000;">
-        <h1><span style="color:#fff">The easiest way to access Wi-Fi</span></h1>
-    <p class="lead" style="color:#fff">
-      With GoWi.Fi, your user's mobile devices will instantly get the Wi-Fi settings configured and you can use long and secure passwords without any trouble.</p>
+<h2 class="title text-left dont-break-out">With GoWi.Fi, your user's mobile devices will instantly get the Wi-Fi settings configured and you can use long and secure passwords without any trouble.</h2>
 
-    <p><button
-class="btn btn-success btn-lg snipcart-add-item"
-    data-item-id="gowifisign"
-    data-item-name="GoWi.Fi Sign"
-    data-item-price="35.00"
-    data-item-weight="100"
-    data-item-url="/"
-    data-item-stackable="false"
+<p><button
+class="btn btn-primary btn-lg uppercase page-scroll snipcart-add-item"
+data-item-id="gowifisign"
+data-item-name="GoWi.Fi Sign"
+data-item-price="35.00"
+data-item-weight="100"
+data-item-url="/"
+data-item-stackable="false"
 data-item-custom1-name="SSID"
-    data-item-custom1-required="true"
+data-item-custom1-required="true"
 data-item-custom2-name="Password"
-    data-item-custom2-required="true"
+data-item-custom2-required="true"
 data-item-custom3-name="Color"
 data-item-custom3-options="White|Blue|Black|Red|Yellow|UV-changing"
-    data-item-custom3-value="White"
+data-item-custom3-value="White"
 data-item-custom4-name="Material"
 data-item-custom4-options="PLA Plastic|Bio degradable"
-    data-item-custom4-value="PLA Plastic"
-    data-item-description="Custom designed Instant GoWi.Fi Sign with NFC and QR-Code">
-        Buy NOW!
+data-item-custom4-value="PLA Plastic"
+data-item-description="Custom designed Instant GoWi.Fi Sign with NFC and QR-Code">
+    Buy NOW!
 </button>
-    </p>
-      </div>
-    </div>
+</p>
+
 </div>
+<!-- end card -->
+
+    </div>
+
+</section>
+</header>
+
+
+
 <div class="container">
 <div class="row">
 <div class="col-sm-12">

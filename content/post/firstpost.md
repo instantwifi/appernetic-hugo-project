@@ -4,4 +4,4 @@ title = "firstpost"
 draft = true
 
 +++
-
+New frames for the gowifi signs are 3d printed.  The latest one in yellow and white.

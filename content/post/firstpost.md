@@ -1,10 +1,11 @@
 +++
-date = "2017-03-31T23:30:26Z"
+date = "2017-09-09T18:33:51Z"
 title = "firstpost"
-draft = true
+draft = false
 
 +++
-New frames for the gowifi signs are 3d printed.  The latest one in yellow and white. 
+
+New frames for the gowifi signs are 3d printed.  The latest one in yellow and white. 
 ![3d printed frames][1]
 
 

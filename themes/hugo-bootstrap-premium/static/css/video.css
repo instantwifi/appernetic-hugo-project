@@ -321,10 +321,6 @@ background-size: cover;
     #video_background {
         display: none;
     }
-    .video #bgVideo {
-    overflow: hidden;
-    height: 750px;
-    }
 }
 
 @media (max-width:1200px) {

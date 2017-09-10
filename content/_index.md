@@ -16,7 +16,7 @@ draft = false
     <div class="container text-left">
 <h1 class="hero-title-lg dont-break-out">The easiest way to access Wi-Fi</h1>
 
-<h2 class="title text-left dont-break-out">With GoWi.Fi, your user's mobile devices will instantly get the Wi-Fi settings configured and you can use long and secure passwords without any trouble.</h2>
+<h3 class="title text-left dont-break-out">With GoWi.Fi, your user's mobile devices will instantly get the Wi-Fi settings configured and you can use long and secure passwords without any trouble.</h3>
 
 <p><button
 class="btn btn-primary btn-lg uppercase page-scroll snipcart-add-item"

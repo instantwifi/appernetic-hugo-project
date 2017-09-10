@@ -26,17 +26,17 @@ data-item-price="35.00"
 data-item-weight="100"
 data-item-url="/"
 data-item-stackable="false"
-data-item-custom1-name="SSID"
+data-item-custom1-name="Network name (SSID)"
 data-item-custom1-required="true"
-data-item-custom2-name="Password"
+data-item-custom2-name="Wi-Fi Password"
 data-item-custom2-required="true"
-data-item-custom3-name="Color"
+data-item-custom3-name="Select color"
 data-item-custom3-options="White|Blue|Black|Red|Yellow|UV-changing"
 data-item-custom3-value="White"
-data-item-custom4-name="Material"
+data-item-custom4-name="Select material"
 data-item-custom4-options="PLA Plastic|Bio degradable"
 data-item-custom4-value="PLA Plastic"
-data-item-description="Custom designed Instant GoWi.Fi Sign with NFC and QR-Code">
+data-item-description="Custom designed Instant GoWi.Fi Sign with NFC">
     Buy NOW!
 </button>
 </p>
@@ -60,21 +60,19 @@ data-item-description="Custom designed Instant GoWi.Fi Sign with NFC and QR-Code
 </header>
 <h1 id="gowi-fi">GoWi.Fi</h1>
 <h3 id="gowi-fi-is-the-easiest-way-to-instantly-get-wi-fi-settings-configured-in-your-user-s-mobile-devices">GoWI.FI is the easiest way to instantly get WI-FI settings configured in your user’s mobile devices.</h3>
-<p>The user doesn’t have to enter any SSID and password which gives the following advantages:</p>
+<p>The user doesn’t have to enter any network name (SSID) and password which gives the following advantages:</p>
 <ul>
-<li><p>Your staff don’t have to hand out passwords to visitors which saves time,</p></li>
-<li><p>Users can’t enter the wrong password</p></li>
-<li><p>You can use very long passwords which are safer</p></li>
-<li><p>You don’t have to use WPS which shouldn’t be used anyway,</p></li>
-<li><p>The board can be designed as you want</p></li>
+<li>Your staff don’t have to hand out passwords to visitors which saves time</li>
+<li>Users can’t enter the wrong password</li>
+<li>You can use very long passwords which are safer</li>
+<li>You don’t have to use WPS which shouldn’t be used anyway</li>
 </ul>
 <h2 id="specification">Specification</h2>
 <ul>
 <li>Board size 25 x 25 x 10 cm</li>
 <li>Color: white, blue, black, red, yellow, UV-changing (from white to red)</li>
 <li>Material: PLA plastic, bio degradeble.</li>
-<li>NFC chip: compatible with most devices.</li>
-<li>QR Code for non-compatible devices such as iPhone.</li>
+<li>NFC chip: compatible with Android devices.</li>
 </ul>
 </div>
 </div>

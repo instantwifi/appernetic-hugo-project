@@ -325,6 +325,9 @@ background-size: cover;
     overflow: hidden;
     height: 750px;
     }
+    section h2.title.text-left.dont-break-out {
+    font-size: 30px;
+    }
 }
 
 @media (max-width:1200px) {

@@ -21,7 +21,7 @@ Today we shoot the instruction video at an AirBnB host. Our goal was to do it as
 
 AirBnB hosts is the perfect customer for our 3D printed GoWi.Fi sign. Hosts can put the sign on the wall or table and give the guests an easy, secure and fast way to connect to the Wi-Fi Hotspot in the house.   
 
-The AirBnB hosts love it, because they can get better customer overall review and rating 
+The AirBnB hosts love it, because they can get better customer overall review and therefore better rating 
 
 
 So here is the result:

@@ -17,8 +17,8 @@ We have been working around the clock to have our e-shop working, get an instruc
 We built our website with our favorite website builder [Appernetic.io][1] that use the static website generator [Hugo][2]. To make the e-shop we have used Snipcart.com. We did some stupid newbie mistakes with the api key, but after that everything worked out very smooth.  
 
 ## Instructions video shooting at AirBnB
-
-Today we shoot the instruction video at an [AirBnB host][3]. Our goal was to do it as fast as possible with minimal cost. So I used my Sony Xperia and did the recording with the help of my co-worker Jan. We did a little storyboard and then get to work. After 2 hours we had all the clips, had directed it in iMovie and added some text.
+![Villa Skogsborg][3]
+Today we shoot the instruction video at an [AirBnB host][4]. Our goal was to do it as fast as possible with minimal cost. So I used my Sony Xperia and did the recording with the help of my co-worker Jan. We did a little storyboard and then get to work. After 2 hours we had all the clips, had directed it in iMovie and added some text.
 
 AirBnB hosts is the perfect customer for our 3D printed GoWi.Fi sign. Hosts can put the sign on the wall or table and give the guests an easy, secure and fast way to connect to the Wi-Fi Hotspot in the house.   
 
@@ -35,4 +35,5 @@ Please comment below!
 
   [1]: https://appernetic.io
   [2]: https://gohugo.io
-  [3]: https://www.airbnb.se/rooms/19807773?location=villa%20skogsborg&s=NGITQe47
+  [3]: https://res.cloudinary.com/dtnahfj7l/v1505247663/etmruqycnj7ibdwlhqkb
+  [4]: https://www.airbnb.se/rooms/19807773?location=villa%20skogsborg&s=NGITQe47

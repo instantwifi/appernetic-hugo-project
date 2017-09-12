@@ -16,4 +16,4 @@ We have been working around the clock to have our e-shop working, get an instruc
 ## Static website generators and Snipcart
 We built our website with our favorite website builder Appernetic that use the static website generator Hugo. To make the e-shop we have used Snipcart.com. We did some stupid newbie mistake with the api key, but after that everything worked out very smooth.  
 
-Today we shoot the instruction video. Our goal was to do it as fast
+Today we shoot the instruction video. Our goal was to do it as fast as possible with minimal cost. So we used my Sony Xperia and did the

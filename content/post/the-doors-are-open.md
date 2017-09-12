@@ -5,8 +5,8 @@ description = "description"
 draft = false
 keywords = ["key","words"]
 tags = ["one","two"]
-title = "the doors are open"
-topics = ["topic 1"]
+title = "The doors are open"
+topics = ["Internet, WI-FI, HotSpot, "]
 type = "post"
 
 +++

@@ -18,7 +18,8 @@ We built our website with our favorite website builder Appernetic.io that use th
 
 ## Instructions video shooting at AirBnB
 Today we shoot the instruction video at an AirBnB host. Our goal was to do it as fast as possible with minimal cost. So I used my Sony Xperia and did the recording with the help of my co-worker Jan. We did a little storyboard and then get to work. After 2 hours we had all the clips, had directed it in iMovie and added some text.
-AirBnB hosts is the perfect customer for our 3D printed GoWi.Fi sign. Hosts can put the sign on the wall or table and give the guests an easy, secure and fast way to connect to the Wi-Fi    
+
+AirBnB hosts is the perfect customer for our 3D printed GoWi.Fi sign. Hosts can put the sign on the wall or table and give the guests an easy, secure and fast way to connect to the Wi-Fi Hotspot in the house.   
 
 
 So here is the result:

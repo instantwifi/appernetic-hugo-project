@@ -23,7 +23,7 @@ AirBnB hosts is the perfect customer for our 3D printed GoWi.Fi sign. Hosts can 
 
 The AirBnB hosts love it, because they can get better customer overall review and therefore better rating. 
 
-One of our customer Grant's first 
+One of our customer, Grant's first AirBnB guest was very exited and said 
 
 So here is the result:
    

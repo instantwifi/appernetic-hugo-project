@@ -1,9 +1,9 @@
 +++
-author = "author"
+author = "Göran S"
 date = "2017-09-12T19:05:44Z"
 description = "description"
 draft = false
-keywords = ["key","words"]
+keywords = ["Internet","WI-FI", "Hotspot"]
 tags = ["one","two"]
 title = "The doors are open"
 topics = ["Internet, WI-FI, HotSpot, "]

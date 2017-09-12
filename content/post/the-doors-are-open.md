@@ -20,4 +20,4 @@ Today we shoot the instruction video. Our goal was to do it as fast as possible 
 
 So here is the result:
    
-{{< youtube w7Ft2ymGmfc >}}
+{{< youtube YCqT9cm0hnk >}}

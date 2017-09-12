@@ -11,7 +11,7 @@ type = "post"
 
 +++
 # The doors are open!
-We have been working around the clock to have our e-shop working, get an instruction video ready and build  a nicer front page. We hope we have managed to do that, you will be our judge.
+We have been working around the clock to have our e-shop working, get an instruction video ready and build  a nicer front page. We hope we have managed to do that, you will be our judge, but don't be to harsh.
  
 ## Static website generators and Snipcart
 We built our website with our favorite website builder [Appernetic.io][1] that use the static website generator [Hugo][2]. To make the e-shop we have used Snipcart.com. We did some stupid newbie mistakes with the api key, but after that everything worked out very smooth.  

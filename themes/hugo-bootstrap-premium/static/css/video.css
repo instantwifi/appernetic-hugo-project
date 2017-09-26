@@ -243,7 +243,7 @@ sub {
 
 section.video {
 position:relative;
-height:650px;
+height:720px;
 -webkit-background-size:cover;
 -moz-background-size:cover;
 -o-background-size:cover;
@@ -264,7 +264,7 @@ min-width: 1422px;
 
 .video #bgVideo {
 overflow: hidden;
-height: 670px;
+height: 794px;
 }
 
 .video #bgVideo > video {

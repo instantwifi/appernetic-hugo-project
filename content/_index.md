@@ -76,6 +76,9 @@ data-item-description="Custom designed Instant GoWi.Fi Sign with NFC">
 <li>Material: PLA plastic, bio degradeble.</li>
 <li>NFC chip: compatible with Android devices.</li>
 </ul>
+
+<h2>Where can GoWi.Fi be used?</h2>
+<p>GoWi.Fi signs is perfect to use in restaurants, bars, coffee shops and <a href="https://www.gowi.fi/who-is-using-gowifi/" target="_blank">hotels</a> that take their customer satisfaction seriously with offering guests free Wi-Fi.</p>
 </div>
 </div>
 </div>

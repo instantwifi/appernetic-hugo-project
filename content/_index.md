@@ -11,7 +11,7 @@ draft = false
 +++
 <header>
   <section class="video v-center">
-  <div id="bgVideo" class="background"><video id="video_background" preload="auto" autoplay="autoplay" loop="loop" poster="/img/earth.jpg"><source src="https://youtu.be/MMonCCuIBeo" type="video/mp4">bgvideo</video></div>
+  <div id="bgVideo" class="background"><video id="video_background" preload="auto" autoplay="autoplay" loop="loop" poster="/img/earth.jpg"><source src="www.youtube.com/watch?v=MMonCCuIBeo" type="video/mp4">bgvideo</video></div>
 <div class="hero-unit">
     <div class="container text-left">
 <h1 class="hero-title-lg dont-break-out">The easiest way to access Wi-Fi</h1>

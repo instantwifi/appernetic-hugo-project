@@ -71,7 +71,7 @@ data-item-description="Custom designed Instant GoWi.Fi Sign with NFC">
 </ul>
 <h2 id="specification">Specification</h2>
 <ul>
-<li>Board size 25 x 25 x 10 cm</li>
+<li>Board size: 74 x 134 x 9 mm</li>
 <li>Color: white, blue, black, red, yellow, UV-changing (from white to red)</li>
 <li>Material: PLA plastic, bio degradeble.</li>
 <li>NFC chip: compatible with Android devices.</li>

@@ -1,6 +1,6 @@
 +++
 type = "page"
-keywords = ["AirBnb","Who is using GoWi.Fi", "NFC","WI-FI"]
+keywords = ["The easiest way to access Wi-Fi","AirBnb","Who is using GoWi.Fi", "NFC","WI-FI"]
 draft = false
 date = "2017-09-27T21:39:04Z"
 title = ""

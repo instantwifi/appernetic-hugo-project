@@ -39,10 +39,15 @@ Add your listing URL when you order and you will be featured here (it is great t
 
 Current featured customers:
 
-https://www.airbnb.se/rooms/19807773
+[Exclusive Apartment in Stockholms Royal Park][1]
 
-https://www.airbnb.se/rooms/19975952
+[Shabby Chique in Stockholm Royal Park][2]
 
-https://www.airbnb.se/rooms/15102311
+[Designat hus på Arlanda - Stockholm pendeln][3]
 
 https://www.airbnb.se/rooms/16788025
+
+
+  [1]: https://www.airbnb.se/rooms/19807773
+  [2]: https://www.airbnb.se/rooms/19975952
+  [3]: https://www.airbnb.se/rooms/15102311

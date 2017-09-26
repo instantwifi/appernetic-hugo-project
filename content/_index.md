@@ -12,8 +12,7 @@ draft = false
 <header>
   <section class="video v-center">
   <div id="bgVideo" class="background">
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/MMonCCuIBeo?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-</iframe>
+<video id="video_background" preload="auto" autoplay="autoplay" loop="loop" poster="/img/earth.jpg"><source src="https://res.cloudinary.com/dtnahfj7l/video/upload/v1506461785/gowifiinstruction5_azjcov.mp4" type="video/mp4">bgvideo</video>
 </div>
 <div class="hero-unit">
     <div class="container text-left">

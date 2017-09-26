@@ -132,9 +132,16 @@ title = "GoWi.Fi" # Site title
 
 [[Languages.en.menu.main]]
 name = "About"
-weight = 1
+weight = 2
 identifier = "about"
 url = "/about/"
+pre = ""
+
+[[Languages.en.menu.main]]
+name = "Who is using GoWi.Fi?"
+weight = 1
+identifier = "who-is-using-gowifi"
+url = "/who-is-using-gowifi/"
 pre = ""
 
 # [[Languages.en.menu.footer]] # add  links to the bottom right corner.

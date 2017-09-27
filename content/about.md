@@ -20,9 +20,14 @@ The user doesn't have to enter any SSID and password which gives the following a
  - You don't have to use WPS which shouldn't be used anyway,
  - The board can be designed as you want
 
+![GoWi.Fi board][1]
+
 ## Specification 
  - Board size 74 x 134 x 9 mm
  - Color: white, blue, black, red, yellow, UV-changing (from white to red)
  - Material: PLA plastic, bio degradeble.
  - NFC chip: compatible with most devices.
- - QR Code for non-compatible devices such as iPhone.
+ - PIN code info written for non-compatible devices such as iPhone.
+
+
+  [1]: https://res.cloudinary.com/dtnahfj7l/v1504983116/kvjf7vywfjbxdws8tgvl

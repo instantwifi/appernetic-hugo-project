@@ -151,11 +151,11 @@ pre = ""
 # weight = 1
 # url = "/disclaimer/"
 
-[[Languages.en.menu.footer]]
-name = "Terms"
-identifier = "terms"
-weight = 2
-url = "/terms/"
+# [[Languages.en.menu.footer]]
+# name = "Terms"
+# identifier = "terms"
+# weight = 2
+# url = "/terms/"
 
 [Languages.sv]
 weight = 2

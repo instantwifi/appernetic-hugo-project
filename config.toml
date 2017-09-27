@@ -87,10 +87,10 @@ showRightSidebar = false
 highlight = "default"
 
 # Google Analytics.
-googleAnalytics = "Your Google Analytics tracking code"
+googleAnalytics = "UA-107118511-1"
 
 # Sidebar social links.
-github = "Myprofile" # Your Github profile ID
+github = "instantwifi" # Your Github profile ID
 bitbucket = "" # Your Bitbucket profile ID
 linkedin = "" # Your LinkedIn profile ID (from public URL)
 googleplus = "Myprofile" # Your Google+ profile ID

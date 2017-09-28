@@ -18,7 +18,7 @@ draft = false
     <div class="container text-left">
 <h1 class="hero-title-lg dont-break-out">The easiest way to access Wi-Fi</h1>
 <!-- dont-break-out -->
-<h2 class="title text-left">With GoWi.Fi, your user's mobile devices will instantly get the Wi-Fi settings configured.</h2>
+<!--<h2 class="title text-left">With GoWi.Fi, your user's mobile devices will instantly get the Wi-Fi settings configured.</h2>-->
 
 <p><button
 class="btn btn-primary btn-lg uppercase page-scroll snipcart-add-item"

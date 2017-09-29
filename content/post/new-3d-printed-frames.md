@@ -1,26 +1,5 @@
 +++
 date = "2017-09-09T18:33:51Z"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 title = "New 3D printed frames"
 draft = false
 

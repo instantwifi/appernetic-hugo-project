@@ -20,6 +20,8 @@ The user doesn't have to enter any SSID and password which gives the following a
  - You don't have to use WPS which shouldn't be used anyway,
  - The board can be designed as you want
 
+{{< youtube eizrBItckM4 >}}
+
 ![GoWi.Fi board][1]
 
 ## Specification 

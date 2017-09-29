@@ -62,6 +62,7 @@ data-item-description="Custom designed Instant GoWi.Fi Sign with NFC">
 </header>
 <h1 id="gowi-fi">GoWi.Fi</h1>
 <h3 id="gowi-fi-is-the-easiest-way-to-instantly-get-wi-fi-settings-configured-in-your-user-s-mobile-devices">GoWI.FI is the easiest way to instantly get WI-FI settings configured in your user’s mobile devices.</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eizrBItckM4?rel=0" frameborder="0" allowfullscreen></iframe>
 <p>The user doesn’t have to enter any network name (SSID) and password which gives the following advantages:</p>
 <ul>
 <li>Your staff don’t have to hand out passwords to visitors which saves time</li>

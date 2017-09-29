@@ -12,7 +12,7 @@ draft = false
 <header>
   <section class="video v-center">
   <div id="bgVideo" class="background">
-<video id="video_background" preload="auto" autoplay="autoplay" loop="loop" poster="https://res.cloudinary.com/dtnahfj7l/image/upload/q_auto/v1506463352/gowifiinstruction-min_gwcttn.jpg"><source src="https://res.cloudinary.com/dtnahfj7l/video/upload/v1506461785/gowifiinstruction5_azjcov.mp4" type="video/mp4">bgvideo</video>
+<video id="video_background" preload="auto" autoplay="autoplay" loop="loop" poster="https://res.cloudinary.com/dtnahfj7l/image/upload/q_63/v1506647174/mobile-front-pic-min_gakkrx.jpg"><source src="https://res.cloudinary.com/dtnahfj7l/video/upload/v1506461785/gowifiinstruction5_azjcov.mp4" type="video/mp4">bgvideo</video>
 </div>
 <div class="hero-unit">
     <div class="container text-left">

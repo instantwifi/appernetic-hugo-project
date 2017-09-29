@@ -80,6 +80,28 @@ data-item-description="Custom designed Instant GoWi.Fi Sign with NFC">
 
 <h2>Where can GoWi.Fi be used?</h2>
 <p>GoWi.Fi signs is perfect to use in restaurants, bars, coffee shops and <a href="https://www.gowi.fi/who-is-using-gowifi/" target="_blank">hotels</a> that take their customer satisfaction seriously with offering guests free Wi-Fi.</p>
+<p><button
+class="btn btn-primary btn-lg uppercase page-scroll snipcart-add-item"
+data-item-id="gowifisign"
+data-item-name="GoWi.Fi Sign"
+data-item-price="35.00"
+data-item-weight="100"
+data-item-url="https://www.gowi.fi/"
+data-item-stackable="false"
+data-item-custom1-name="Network name (SSID)"
+data-item-custom1-required="true"
+data-item-custom2-name="Wi-Fi Password"
+data-item-custom2-required="true"
+data-item-custom3-name="Select color"
+data-item-custom3-options="White|Blue|Black|Red|Yellow|UV-changing"
+data-item-custom3-value="White"
+data-item-custom4-name="Select material"
+data-item-custom4-options="PLA Plastic|Bio degradable"
+data-item-custom4-value="PLA Plastic"
+data-item-description="Custom designed Instant GoWi.Fi Sign with NFC">
+    Buy NOW!
+</button>
+</p>
 </div>
 </div>
 </div>

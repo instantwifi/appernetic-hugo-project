@@ -7,6 +7,8 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <title>{{ .Title }} {{ if ne .Title .Site.Title }} &middot; {{ .Site.Title }}{{ end }}</title>
   {{ partial "base/metas" . }}
+  <!-- Crisp! -->
+  <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="764f0f8a-d14c-43e7-b6b4-9c678d877690";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
   {{ partial "base/imports" . }}
 </head>
 <body{{ with .Site.Params.theme }} class="{{ . }}"{{ end }} data-ng-app="myapp" data-ng-controller="MyController" data-ng-mouseleave="MouseLeave($event)">

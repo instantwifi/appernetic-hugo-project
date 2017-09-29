@@ -315,7 +315,7 @@ background-size: cover;
 }
 @media (max-width: 767px) {
     .background {
-        background: url('https://res.cloudinary.com/dtnahfj7l/image/upload/q_auto/v1506463352/gowifiinstruction-min_gwcttn.jpg') center center / cover no-repeat;
+        background: url('https://res.cloudinary.com/dtnahfj7l/image/upload/q_63/v1506647174/mobile-front-pic-min_gakkrx.jpg') center center / cover no-repeat;
     }
 
     #video_background {

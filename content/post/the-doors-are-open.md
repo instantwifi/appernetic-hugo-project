@@ -5,13 +5,12 @@ description = "We have been working around the clock to have our e-shop working,
 draft = false
 keywords = ["Internet","WI-FI", "Hotspot"]
 tags = ["Internet","WI-FI", "E-shop", "Hotspot", "Videoproduction"]
-title = ""
+title = "The doors are open!"
 topics = ["Internet, WI-FI, HotSpot, "]
 type = "post"
 
 +++
-# The doors are open!
-![Villa Skogsborg][3]
+![Villa Skogsborg][3]
 We have been working around the clock to have our e-shop working, get an instruction video ready and build  a nicer front page. We hope we have managed to do that, you will be our judge, but don't be to harsh.
  
 ## Static website generators and Snipcart

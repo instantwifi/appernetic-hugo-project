@@ -2,7 +2,7 @@
 author = "author"
 date = "2017-09-30T15:11:24Z"
 description = "description"
-draft = true
+draft = false
 keywords = ["key","words"]
 tags = ["one","two"]
 title = "Does the iPhone support NFC?"

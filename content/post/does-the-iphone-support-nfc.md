@@ -10,7 +10,7 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-At GoWi.Fi we have been bravely waiting for Apple to join everyone else in supporting NFC tags since Google added NFC functionality to Android in late 2010. 
+At GoWi.Fi we use NFC in our GoWi.Fi signs and have been bravely waiting for Apple to join everyone else in supporting NFC tags since Google added NFC functionality to Android in late 2010. 
 
 At WWDC 2017 in June Apple announced that iOS 11 would have support for reading NFC tags and NDEF messages. 
 

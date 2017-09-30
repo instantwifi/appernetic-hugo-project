@@ -1,10 +1,10 @@
 +++
-author = "author"
+author = "Göran S"
 date = "2017-09-30T15:11:24Z"
 description = "description"
 draft = false
-keywords = ["key","words"]
-tags = ["one","two"]
+keywords = ["NFC","iPhone"]
+tags = ["NFC","iPhone"]
 title = "Does the iPhone support NFC?"
 topics = ["topic 1"]
 type = "post"

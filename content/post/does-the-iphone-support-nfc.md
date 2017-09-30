@@ -5,7 +5,7 @@ description = "description"
 draft = true
 keywords = ["key","words"]
 tags = ["one","two"]
-title = "does the iphone support nfc"
+title = "Does the iPhone support NFC?"
 topics = ["topic 1"]
 type = "post"
 

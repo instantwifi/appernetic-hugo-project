@@ -4,14 +4,14 @@ keywords = ["NFC","WI-FI"]
 draft = false
 date = "2017-04-26T21:39:04Z"
 title = ""
-tags = ["NFC","WI-FI"]
-topics = ["WI-FI"]
+tags = ["NFC","WiFi","Access WiFi", "Configure Android"]
+topics = ["WiFi"]
 description = "description"
 author = "author"
 
 +++
 # GoWi.Fi
-###  GoWI.FI is the easiest way to instantly get WI-FI settings configured in your user's mobile devices.
+###  GoWI.FI is the easiest way to instantly configure Android settings and access Internet for your user's devices.
 The user doesn't have to enter any SSID and password when they configure WiFi which gives the following advantages:
 
  - Your staff don't have to hand out passwords to visitors which saves time,

@@ -69,7 +69,7 @@ data-item-description="Custom designed Instant GoWi.Fi Sign with NFC">
 <li>Users can’t enter the wrong password</li>
 <li>You can use very long passwords which are safer</li>
 <li>You don’t have to use WPS which shouldn’t be used anyway</li>
-<li>Users don't risk getting connected to a fake HotSpot.
+<li>Users don't risk getting connected to a fake HotSpot/Access Point.
 </ul>
 <h2 id="specification">Specification</h2>
 <ul>
@@ -80,7 +80,7 @@ data-item-description="Custom designed Instant GoWi.Fi Sign with NFC">
 </ul>
 
 <h2>Where can GoWi.Fi be used?</h2>
-<p>GoWi.Fi signs is perfect to use in restaurants, bars, coffee shops and <a href="https://www.gowi.fi/who-is-using-gowifi/" target="_blank">hotels</a> that take their customer satisfaction seriously with offering guests free WiFi. Guests only have to swipe their Android phones on the sign and then the device can access Internet.</p>
+<p>GoWi.Fi signs is perfect to use in restaurants, bars, coffee shops and <a href="https://www.gowi.fi/who-is-using-gowifi/" target="_blank">hotels</a> that take their customer satisfaction seriously with offering guests free WiFi. Guests only have to swipe their Android phones on the sign and then the device can <em>access WiFi</em>.</p>
 <p><button
 class="btn btn-primary btn-lg uppercase page-scroll snipcart-add-item"
 data-item-id="gowifisign"

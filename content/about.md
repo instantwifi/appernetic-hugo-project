@@ -18,7 +18,7 @@ The user doesn't have to enter any SSID and password when they configure WiFi wh
  - Users can't enter the wrong password when they configure Android settings,
  - You can use very long passwords which are safer,
  - You don't have to use WPS which shouldn't be used anyway,
-- Users don't risk getting added to a fake HotSpot/Access Point,
+ - Users don't risk getting added to a fake HotSpot/Access Point,
  - The board can be designed as you want
 
 {{< youtube eizrBItckM4 >}}

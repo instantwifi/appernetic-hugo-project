@@ -16,9 +16,9 @@ draft = false
 </div>
 <div class="hero-unit">
     <div class="container text-left">
-<h1 class="hero-title-lg dont-break-out">The easiest way to access Wi-Fi</h1>
+<h1 class="hero-title-lg dont-break-out">The easiest way to access WiFi</h1>
 <!-- dont-break-out -->
-<!--<h2 class="title text-left">With GoWi.Fi, your user's mobile devices will instantly get the Wi-Fi settings configured.</h2>-->
+<!--<h2 class="title text-left">With GoWi.Fi, your user's mobile devices will instantly get the WiFi settings configured.</h2>-->
 
 <p><button
 class="btn btn-primary btn-lg uppercase page-scroll snipcart-add-item"
@@ -61,7 +61,7 @@ data-item-description="Custom designed Instant GoWi.Fi Sign with NFC">
 </h1>
 </header>
 <h1 id="gowi-fi">GoWi.Fi</h1>
-<h3 id="gowi-fi-is-the-easiest-way-to-instantly-get-wi-fi-settings-configured-in-your-user-s-mobile-devices">GoWI.FI is the easiest way to instantly get WI-FI settings configured in your user’s mobile devices.</h3>
+<h3 id="gowi-fi-is-the-easiest-way-to-instantly-get-wi-fi-settings-configured-in-your-user-s-mobile-devices">GoWI.FI is the easiest way to instantly get WIFI settings configured in your user’s mobile devices.</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eizrBItckM4?rel=0" frameborder="0" allowfullscreen></iframe>
 <p>The user doesn’t have to enter any network name (SSID) and password which gives the following advantages:</p>
 <ul>
@@ -79,7 +79,7 @@ data-item-description="Custom designed Instant GoWi.Fi Sign with NFC">
 </ul>
 
 <h2>Where can GoWi.Fi be used?</h2>
-<p>GoWi.Fi signs is perfect to use in restaurants, bars, coffee shops and <a href="https://www.gowi.fi/who-is-using-gowifi/" target="_blank">hotels</a> that take their customer satisfaction seriously with offering guests free Wi-Fi.</p>
+<p>GoWi.Fi signs is perfect to use in restaurants, bars, coffee shops and <a href="https://www.gowi.fi/who-is-using-gowifi/" target="_blank">hotels</a> that take their customer satisfaction seriously with offering guests free WiFi.</p>
 <p><button
 class="btn btn-primary btn-lg uppercase page-scroll snipcart-add-item"
 data-item-id="gowifisign"

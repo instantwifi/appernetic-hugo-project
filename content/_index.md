@@ -80,7 +80,7 @@ data-item-description="Custom designed Instant GoWi.Fi Sign with NFC">
 </ul>
 
 <h2>Where can GoWi.Fi be used?</h2>
-<p>GoWi.Fi signs is perfect to use in restaurants, bars, coffee shops and <a href="https://www.gowi.fi/who-is-using-gowifi/" target="_blank">hotels</a> that take their customer satisfaction seriously with offering guests free WiFi.</p>
+<p>GoWi.Fi signs is perfect to use in restaurants, bars, coffee shops and <a href="https://www.gowi.fi/who-is-using-gowifi/" target="_blank">hotels</a> that take their customer satisfaction seriously with offering guests free WiFi. Guests only have to swipe their Android phones on the sign and the device can then access Internet.</p>
 <p><button
 class="btn btn-primary btn-lg uppercase page-scroll snipcart-add-item"
 data-item-id="gowifisign"

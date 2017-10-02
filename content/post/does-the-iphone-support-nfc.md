@@ -1,7 +1,7 @@
 +++
 author = "Göran S"
 date = "2017-09-30T15:11:24Z"
-description = "description"
+description = "At GoWi.Fi we use NFC in our GoWi.Fi signs and have been bravely waiting for Apple to join everyone else in supporting NFC tags since Google added NFC functionality to Android in late 2010. At WWDC 2017 in June Apple announced that iOS 11 would have support for reading NFC tags and NDEF messages."
 draft = false
 keywords = ["NFC","iPhone"]
 tags = ["NFC","iPhone"]

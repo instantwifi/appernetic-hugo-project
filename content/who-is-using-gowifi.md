@@ -1,11 +1,11 @@
 +++
 type = "page"
-keywords = ["The easiest way to access Wi-Fi","AirBnb","Who is using GoWi.Fi", "NFC","WI-FI"]
+keywords = ["The easiest way to access WiFi","AirBnb","Who is using GoWi.Fi", "NFC","WiFi"]
 draft = false
 date = "2017-09-27T21:39:04Z"
 title = ""
-tags = ["AirBnb","Who is using GoWi.Fi","NFC","WI-FI"]
-topics = ["WI-FI"]
+tags = ["AirBnb","Who is using GoWi.Fi","NFC","WiFi"]
+topics = ["WiFi"]
 description = "description"
 author = "author"
 

@@ -69,6 +69,7 @@ data-item-description="Custom designed Instant GoWi.Fi Sign with NFC">
 <li>Users can’t enter the wrong password</li>
 <li>You can use very long passwords which are safer</li>
 <li>You don’t have to use WPS which shouldn’t be used anyway</li>
+<li>Users don't risk getting connected to a fake HotSpot.
 </ul>
 <h2 id="specification">Specification</h2>
 <ul>

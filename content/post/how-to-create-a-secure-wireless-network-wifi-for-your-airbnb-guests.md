@@ -1,8 +1,8 @@
 +++
 author = "Göran S"
 date = "2017-10-03T16:07:37Z"
-description = "description"
-draft = true
+description = "If you are renting out your home on AirBnB, Booking.com etc or have a small business you may want to offer free WiFi access for clients. To do that in a secure way you don’t want to connect them to your own local network (LAN) where you have your computers, NAS backup and IoT devices connected."
+draft = false
 keywords = ["AirBnB","Secure WiFi", "Guest Network", "OpenDNS"]
 tags = ["AirBnB","Secure WiFi","Guest Network"]
 title = "How to create a secure wireless network (WiFi) for your AirBnB guests"

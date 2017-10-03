@@ -28,7 +28,7 @@ Now when you have it setup, log onto the guest network and check that you can no
 ## Preventing your visitors from doing bad stuff
 It is also a good practice to use a web content filter so that your ISP does not report you for downloading illegal content that your visitors is responsible for. You also keep them safe from viruses and ransomware. [OpenDNS][3] is a great solution for this. 
 
-To prevent your guest from circumventing your OpenDNS settings be sure to configure your WiFi routers firewall rules to force all DNS traffic over port 53. 
+To prevent your guest from circumventing your OpenDNS settings be sure to configure your WiFi routers firewall rules to [force all DNS traffic over port 53][4]. 
 
 If you can don’t give your guests physical access to the router or lock down access to the admin interface and ethernet ports as much as possible.
 
@@ -36,3 +36,4 @@ If you can don’t give your guests physical access to the router or lock down a
   [1]: https://passwordsgenerator.net/
   [2]: https://www.gowi.fi/
   [3]: https://www.opendns.com/home-internet-security/
+  [4]: https://support.opendns.com/hc/en-us/articles/227988027

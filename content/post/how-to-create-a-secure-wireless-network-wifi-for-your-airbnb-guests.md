@@ -19,21 +19,21 @@ The easiest way to do that is using a WiFi router that offers guest access/guest
 [TP-Link][1]
 [How to configure guest network on a dual band wireless network router][2]
 [How to create a private wireless network for your AirBnB guests][3]
-
+[How to Create a Guest Network in UniFi Controller][4]
 
 ## Configuring the guest network
 Log in to the router and select Guest Network (or something similar) from the admin view. Give the the network a meaningful name (SSID).  
 
-Choose an authentication system, such as WPA2-Personal and an access key. It’s not secure to run a guest network that isn’t encrypted, and especially not one with a default password. Create a [strong password (PIN)][4].  
+Choose an authentication system, such as WPA2-Personal and an access key. It’s not secure to run a guest network that isn’t encrypted, and especially not one with a default password. Create a [strong password (PIN)][5].  
 
-Using a strong password on your guest network will not be a problem for your guests because they will only have to touch the [GoWi.Fi sign][5] with their Android devices and it will instantly get configured with the right SSID and PIN (password).    
+Using a strong password on your guest network will not be a problem for your guests because they will only have to touch the [GoWi.Fi sign][6] with their Android devices and it will instantly get configured with the right SSID and PIN (password).    
 
 Now when you have it setup, log onto the guest network and check that you can not access any of your devices on your own network. 
 
 ## Preventing your visitors from doing bad stuff
-It is also a good practice to use a web content filter so that your ISP does not report you for downloading illegal content that your visitors is responsible for. You also keep them safe from viruses and ransomware. [OpenDNS][6] is a great solution for this. 
+It is also a good practice to use a web content filter so that your ISP does not report you for downloading illegal content that your visitors is responsible for. You also keep them safe from viruses and ransomware. [OpenDNS][7] is a great solution for this. 
 
-To prevent your guest from circumventing your OpenDNS settings be sure to configure your WiFi routers firewall rules to [force all DNS traffic over port 53][7]. 
+To prevent your guest from circumventing your OpenDNS settings be sure to configure your WiFi routers firewall rules to [force all DNS traffic over port 53][8]. 
 
 If you can don’t give your guests physical access to the router or lock down access to the admin interface and ethernet ports as much as possible.
 
@@ -41,7 +41,8 @@ If you can don’t give your guests physical access to the router or lock down a
   [1]: http://www.tp-link.com/us/faq-1082.html
   [2]: http://www.tp-link.se/article/?faqid=649
   [3]: http://www.robbmontgomery.com/2014/03/how-to-create-private-guest-network-for.html
-  [4]: https://passwordsgenerator.net/
-  [5]: https://www.gowi.fi/
-  [6]: https://www.opendns.com/home-internet-security/
-  [7]: https://support.opendns.com/hc/en-us/articles/227988027
+  [4]: https://help.ubnt.com/hc/en-us/articles/115000166827-UniFi-Wireless-Guest-Network-Setup
+  [5]: https://passwordsgenerator.net/
+  [6]: https://www.gowi.fi/
+  [7]: https://www.opendns.com/home-internet-security/
+  [8]: https://support.opendns.com/hc/en-us/articles/227988027

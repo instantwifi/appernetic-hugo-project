@@ -19,9 +19,9 @@ The easiest way to do that is using a WiFi router that offers guest access/guest
 Configuring the guest network
 Log in to the router and select Guest Network (or something similar) from the admin view. Give the the network a meaningful name (SSID).  
 
-Choose an authentication system, such as WPA2-Personal and an access key. It’s not secure to run a guest network that isn’t encrypted, and especially not one with a default password. Create a strong password (PIN) https://passwordsgenerator.net/ .  
+Choose an authentication system, such as WPA2-Personal and an access key. It’s not secure to run a guest network that isn’t encrypted, and especially not one with a default password. Create a [strong password (PIN)][1].  
 
-Using a strong password on your guest network will not be a problem for your guests because they will only have to touch the GoWi.Fi sign with their Android devices and it will instantly get configured with the right SSID and PIN (password).    
+Using a strong password on your guest network will not be a problem for your guests because they will only have to touch the [GoWi.Fi sign][2] with their Android devices and it will instantly get configured with the right SSID and PIN (password).    
 
 Now when you have it setup, log onto the guest network and check that you can not access any of your devices on your own network. 
 
@@ -31,3 +31,7 @@ It is also a good practice to use a web content filter so that your ISP does not
 To prevent your guest from circumventing your OpenDNS settings be sure to configure your WiFi routers firewall rules to force all DNS traffic over port 53. https://support.opendns.com/hc/en-us/articles/227988027
 
 If you can don’t give your guests physical access to the router or lock down access to the admin interface and ethernet ports as much as possible.
+
+
+  [1]: https://passwordsgenerator.net/
+  [2]: https://www.gowi.fi/

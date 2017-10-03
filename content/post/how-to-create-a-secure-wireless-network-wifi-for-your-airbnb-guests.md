@@ -14,7 +14,7 @@ type = "post"
 
 You want to have an isolated network that is only for your guests. In technical terms you have to create something that is called a VPN or VLAN - virtual private network or virtual local area network. 
 
-The easiest way to do that is using a WiFi router that offers guest access/guest zone as a built in feature. Many routers today have that feature such as Asus, TP-Link, Netgear, Linksys and Ubiquity.
+The easiest way to do that is using a WiFi router that offers guest access/guest zone as a built in feature. Many routers today have that feature such as Asus, TP-Link, Netgear, Linksys and Ubiquity and the vendors usualhave 
 
 ## Configuring the guest network
 Log in to the router and select Guest Network (or something similar) from the admin view. Give the the network a meaningful name (SSID).  

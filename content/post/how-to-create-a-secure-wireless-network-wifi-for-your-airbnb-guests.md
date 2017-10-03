@@ -17,7 +17,8 @@ You want to have an isolated network that is only for your guests. In technical 
 The easiest way to do that is using a WiFi router that offers guest access/guest zone as a built in feature. Many routers today have that feature such as Asus, TP-Link, Netgear, Linksys and Ubiquity and the vendors usually have instructions how to do this and there are How-To's that are easy to find.
 
 [TP-Link][1]
-[Configure guest network on a dual band wireless network router][2]
+[How to configure guest network on a dual band wireless network router][2]
+How can 
 
 ## Configuring the guest network
 Log in to the router and select Guest Network (or something similar) from the admin view. Give the the network a meaningful name (SSID).  

@@ -21,6 +21,7 @@ The easiest way to do that is using a WiFi router that offers guest access/guest
 [How to create a private wireless network for your AirBnB guests][3]
 [How to Create a Guest Network in UniFi Controller][4]
 
+
 ## Configuring the guest network
 Log in to the router and select Guest Network (or something similar) from the admin view. Give the the network a meaningful name (SSID).  
 

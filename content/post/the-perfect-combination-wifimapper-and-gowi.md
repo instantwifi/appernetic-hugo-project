@@ -2,9 +2,9 @@
 author = "Göran S"
 date = "2017-10-05T14:17:37Z"
 description = "We have kept an eye on an exciting London based Startup called [OpenSignal][2]. They have tapped into the fact that the global use of smartphones is leading to the rise of a wide-spread mobile sensor network. They are calling it “one of the most exciting technological innovations of recent times.”"
-draft = true
+draft = false
 keywords = ["OpenSignal","WifiMapper", "technological innovations", "GoWi.Fi"]
-tags = ["GoWi.Fi","two"]
+tags = ["GoWi.Fi","OpenSignal", "WifiMapper"]
 title = "The perfect combination: WifiMapper and GoWi.Fi"
 topics = ["topic 1"]
 type = "post"

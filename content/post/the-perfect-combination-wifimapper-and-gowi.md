@@ -1,7 +1,7 @@
 +++
 author = "Göran S"
 date = "2017-10-05T14:17:37Z"
-description = "description"
+description = "We have kept an eye on an exciting London based Startup called [OpenSignal][2]. They have tapped into the fact that the global use of smartphones is leading to the rise of a wide-spread mobile sensor network. They are calling it “one of the most exciting technological innovations of recent times.”"
 draft = true
 keywords = ["key","words"]
 tags = ["one","two"]
@@ -22,7 +22,8 @@ If you have set up a [Guest network][4] (you don't want to give out the password
 ![Select the nearest HotSpot.][6]
 Select the nearest HotSpot.
 
-![Add the password (PIN) for your ][7]
+![Add the password (PIN) for your Guest netowrk WiFi router. ][7]
+Add the password (PIN) for your Guest netowrk WiFi router.
 
 They have been collecting data from mobile sensors for seven years and has been building a powerful arsenal of data over the time by using its smart mobile apps which are installed on millions of mobiles around the world. They have created OpenSignal, WeatherSignal and CrisisSignal (which has been used after Hurricane Sandy and as part of the Ebola crisis in West Africa ) for mobile devices.
 

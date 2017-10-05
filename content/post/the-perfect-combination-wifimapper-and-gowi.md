@@ -10,7 +10,7 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-We have kept an eye on an exciting London based Startup called OpenSignal. They have tapped into the fact that the global use of smartphones is leading to the rise of a wide-spread mobile sensor network. They are calling it “one of the most exciting technological innovations of recent times.”
+We have kept an eye on an exciting London based Startup called [OpenSignal][1]. They have tapped into the fact that the global use of smartphones is leading to the rise of a wide-spread mobile sensor network. They are calling it “one of the most exciting technological innovations of recent times.”
 
 Recently they built WifiMapper, which they call “the best free-Wi-Fi database in the world,” which users can tap into to instantly to find the nearest (and best) free Internet service. While OpenSignal already gathers data on Wi-Fi hotspots around the globe — 400 million and counting — they have to use crowdsourcing to collect data about free WiFi hotspots, so that active users can “tag” locations as free, if they are and also add the password if it is encrypted.
 
@@ -23,3 +23,6 @@ They have been collecting data from mobile sensors for seven years and has been 
 
 But how do they make money?
 The simple and short answer is that OpenSignal sells data to mobile networks, giving them another view of their system. Carriers spend billions of dollars each year building and maintaining large wireless networks, so any new perspective they can garner is useful.
+
+
+  [1]: https://opensignal.com

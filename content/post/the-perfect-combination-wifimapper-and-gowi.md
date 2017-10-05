@@ -12,7 +12,7 @@ type = "post"
 +++
 We have kept an eye on an exciting London based Startup called [OpenSignal][1]. They have tapped into the fact that the global use of smartphones is leading to the rise of a wide-spread mobile sensor network. They are calling it “one of the most exciting technological innovations of recent times.”
 
-Recently they built WifiMapper, which they call “the best free-Wi-Fi database in the world,” which users can tap into to instantly to find the nearest (and best) free Internet service. While OpenSignal already gathers data on Wi-Fi hotspots around the globe — 400 million and counting — they have to use crowdsourcing to collect data about free WiFi hotspots, so that active users can “tag” locations as free, if they are and also add the password if it is encrypted.
+Recently they built [WifiMapper][2], which they call “the best free-Wi-Fi database in the world,” which users can tap into to instantly to find the nearest (and best) free Internet service. While OpenSignal already gathers data on Wi-Fi hotspots around the globe — 400 million and counting — they have to use crowdsourcing to collect data about free WiFi hotspots, so that active users can “tag” locations as free, if they are and also add the password if it is encrypted.
 
 If you have set up a Guest network (you don't want to give out the password to your private network) at your Airbnb host, then you can securely add your password in WifiMapper. This way you can give your iPhone users an alternative method to connect to your WiFi but only if they have downloaded the WifiMapper before they arrive.  This solution is not as fast and straightforward as with the GoWi.Fi sign, but it will help some of your users if you tell them beforehand
 
@@ -26,3 +26,4 @@ The simple and short answer is that OpenSignal sells data to mobile networks, gi
 
 
   [1]: https://opensignal.com
+  [2]: https://itunes.apple.com/app/opensignal/id598298030

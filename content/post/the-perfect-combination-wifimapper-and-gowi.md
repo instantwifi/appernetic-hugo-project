@@ -17,11 +17,11 @@ Recently they built [WifiMapper][2], which they call “the best free-Wi-Fi data
 
 If you have set up a [Guest network][3] (you don't want to give out the password to your private network) at your Airbnb host, then you can securely add your password in WifiMapper. This way you can give your iPhone users an alternative method to connect to your WiFi but only if they have downloaded the WifiMapper before they arrive.  This solution is not as fast and straightforward as with the [GoWi.Fi sign][4], but it will help some of your users if you tell them beforehand
 
-They collect atmospheric pressure from the phone’s barometer, sunlight intensity from intensity meters, magnetic flux from magnetometers, GPS signals from the GPS, wifi strength from the wifi connection and also crowdsourced data from the users.
-
 They have been collecting data from mobile sensors for seven years and has been building a powerful arsenal of data over the time by using its smart mobile apps which are installed on millions of mobiles around the world. They have created OpenSignal, WeatherSignal and CrisisSignal (which has been used after Hurricane Sandy and as part of the Ebola crisis in West Africa ) for mobile devices.
 
-But how do they make money?
+They collect atmospheric pressure from the phone’s barometer, sunlight intensity from intensity meters, magnetic flux from magnetometers, GPS signals from the GPS, wifi strength from the wifi connection and also crowdsourced data from the users.
+
+## But how do they make money?
 The simple and short answer is that OpenSignal sells data to mobile networks, giving them another view of their system. Carriers spend billions of dollars each year building and maintaining large wireless networks, so any new perspective they can garner is useful.
 
 

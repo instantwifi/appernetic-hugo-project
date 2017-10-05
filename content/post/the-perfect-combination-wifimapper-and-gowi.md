@@ -19,7 +19,7 @@ Recently they built [WifiMapper][3], which they call “the best free-Wi-Fi data
 
 If you have set up a [Guest network][4] (you don't want to give out the password to your private network) at your Airbnb host, then you can securely add your password in WifiMapper. This way you can give your iPhone users an alternative method to connect to your WiFi but only if they have downloaded the WifiMapper before they arrive.  This solution is not as fast and straightforward as with the [GoWi.Fi sign][5], but it will help some of your users if you tell them beforehand
 
-
+![Select the nearest HotSpot.][6]
 
 They have been collecting data from mobile sensors for seven years and has been building a powerful arsenal of data over the time by using its smart mobile apps which are installed on millions of mobiles around the world. They have created OpenSignal, WeatherSignal and CrisisSignal (which has been used after Hurricane Sandy and as part of the Ebola crisis in West Africa ) for mobile devices.
 
@@ -34,3 +34,4 @@ The simple and short answer is that OpenSignal sells data to mobile networks, gi
   [3]: https://itunes.apple.com/app/opensignal/id598298030
   [4]: https://www.gowi.fi/2017/10/03/how-to-create-a-secure-wireless-network-wifi-for-your-airbnb-guests/
   [5]: https://www.gowi.fi
+  [6]: https://res.cloudinary.com/dtnahfj7l/v1507213691/siwvm12291chduc92hfa

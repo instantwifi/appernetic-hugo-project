@@ -330,7 +330,7 @@ background-size: cover;
     }
 }
 
-@media (max-width:1200px) {
+@media (min-width:768px) {
     .background {
         background: url('https://res.cloudinary.com/dtnahfj7l/image/upload/v1506463352/gowifiinstruction-min_gwcttn.jpg') center center / cover no-repeat;
     }	
